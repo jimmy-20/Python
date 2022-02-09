@@ -1,0 +1,11 @@
+Para ver las librerias instaladas
+pip freeze
+
+Para instalar una libreria 
+pip install "Nombre"
+
+Para guardar las librerias en un txt
+pip freeze > "NombreFichero".txt
+
+Para Instalar las librerias de un txt
+pip install -r "NombreFichero".txt
